@@ -1,2 +1,2 @@
 # Zuri-NodeJS-FileSystemTask
-Request NPM Pacakge was used.
+Request NPM Package was used.
